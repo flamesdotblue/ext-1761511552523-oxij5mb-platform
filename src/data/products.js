@@ -1,0 +1,13 @@
+export const products = [
+  // رنگ و ابزار
+  { id: 'p1', category: 'رنگ و ابزار', title: 'رنگ آکریلیک سفید 4 کیلویی', desc: 'مناسب دیوار داخلی، خشک شدن سریع', price: 420000, image: 'https://images.unsplash.com/photo-1749031662840-a1635945f4aa?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHwlRDglQjElRDklODYlREElQUYlMjAlRDglQTIlREElQTklRDglQjElREIlOEMlRDklODQlREIlOEMlREElQTklMjAlRDglQjMlRDklODElREIlOEMlRDglQUYlMjA0JTIwJURBJUE5JURCJThDJUQ5JTg0JUQ5JTg4JURCJThDJURCJThDfGVufDB8MHx8fDE3NjE1MTE3Mzl8MA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80' },
+  { id: 'p2', category: 'رنگ و ابزار', title: 'غلطک نقاشی 9 اینچ', desc: 'الیاف باکیفیت، پوشش‌دهی یکنواخت', price: 175000, image: 'https://images.unsplash.com/photo-1632067694866-de074902e56f?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHwlRDglQkElRDklODQlRDglQjclREElQTklMjAlRDklODYlRDklODIlRDglQTclRDglQjQlREIlOEMlMjA5JTIwJUQ4JUE3JURCJThDJUQ5JTg2JURBJTg2fGVufDB8MHx8fDE3NjE1MTE3Mzh8MA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80' },
+  { id: 'p3', category: 'رنگ و ابزار', title: 'اسپری رنگ مشکی مات', desc: 'چسبندگی عالی روی فلز و چوب', price: 135000, image: 'https://images.unsplash.com/photo-1556228578-48f2358a28ee?q=80&w=1200&auto=format&fit=crop' },
+  { id: 'p4', category: 'رنگ و ابزار', title: 'چسب آکواریوم شفاف', desc: 'آب‌بندی قوی و ماندگار', price: 98000, image: 'https://images.unsplash.com/photo-1670056757365-983db105bf10?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHwlREElODYlRDglQjMlRDglQTglMjAlRDglQTIlREElQTklRDklODglRDglQTclRDglQjElREIlOEMlRDklODglRDklODUlMjAlRDglQjQlRDklODElRDglQTclRDklODF8ZW58MHwwfHx8MTc2MTUxMTczOHww&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80' },
+
+  // کالای برق
+  { id: 'e1', category: 'کالای برق', title: 'پریز و کلید ساده سفید', desc: 'بدنه مقاوم، نصب آسان', price: 62000, image: 'https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=1200&auto=format&fit=crop' },
+  { id: 'e2', category: 'کالای برق', title: 'لامپ LED 12 وات', desc: 'طول عمر بالا، نور مهتابی', price: 45000, image: 'https://images.unsplash.com/photo-1587378299845-649939ef716b?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHwlRDklODQlRDglQTclRDklODUlRDklQkUlMjBMRUQlMjAxMiUyMCVEOSU4OCVEOCVBNyVEOCVBQXxlbnwwfDB8fHwxNzYxNTExNzM5fDA&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80' },
+  { id: 'e3', category: 'کالای برق', title: 'چراغ سقفی توکار', desc: 'نور یکنواخت و کم‌مصرف', price: 185000, image: 'https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop' },
+  { id: 'e4', category: 'کالای برق', title: 'رابط 3 خانه ارت‌دار', desc: 'محافظ کودک، کابل 1.8 متر', price: 99000, image: 'https://images.unsplash.com/photo-1604072366595-0211024d3139?q=80&w=1200&auto=format&fit=crop' },
+]
